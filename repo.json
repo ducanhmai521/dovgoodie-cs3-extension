@@ -3,6 +3,6 @@
     "description": "Sorastream and Superstream (for dov noobie)",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/placeholder.json"
+        "https://raw.githubusercontent.com/ducanhmai521/dovgoodie-cs3-extension/main/plugins.json"
     ]
 }
