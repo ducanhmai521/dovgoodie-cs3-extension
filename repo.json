@@ -1,0 +1,8 @@
+{
+    "name": "DovGoodie Repo",
+    "description": "Sorastream and Superstream (for dov noobie)",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/placeholder.json"
+    ]
+}

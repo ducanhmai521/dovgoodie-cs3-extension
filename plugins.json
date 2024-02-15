@@ -1,0 +1,46 @@
+[
+    {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 276274,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 224,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1196694385061003334/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 73982,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Superstream",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Superstream.cs3",
+        "name": "Superstream"
+    }
+]
